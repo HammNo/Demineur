@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\Exercice récapitulatif\Démineur\bin\Debug\net5.0\Démineur.exe
+C:\Users\Student\source\repos\Exercice récapitulatif\Démineur\bin\Debug\net5.0\Démineur.deps.json
+C:\Users\Student\source\repos\Exercice récapitulatif\Démineur\bin\Debug\net5.0\Démineur.runtimeconfig.json
+C:\Users\Student\source\repos\Exercice récapitulatif\Démineur\bin\Debug\net5.0\Démineur.runtimeconfig.dev.json
+C:\Users\Student\source\repos\Exercice récapitulatif\Démineur\bin\Debug\net5.0\Démineur.dll
+C:\Users\Student\source\repos\Exercice récapitulatif\Démineur\bin\Debug\net5.0\ref\Démineur.dll
+C:\Users\Student\source\repos\Exercice récapitulatif\Démineur\bin\Debug\net5.0\Démineur.pdb
+C:\Users\Student\source\repos\Exercice récapitulatif\Démineur\obj\Debug\net5.0\Démineur.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Exercice récapitulatif\Démineur\obj\Debug\net5.0\Démineur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Exercice récapitulatif\Démineur\obj\Debug\net5.0\Démineur.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Exercice récapitulatif\Démineur\obj\Debug\net5.0\Démineur.AssemblyInfo.cs
+C:\Users\Student\source\repos\Exercice récapitulatif\Démineur\obj\Debug\net5.0\Démineur.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Exercice récapitulatif\Démineur\obj\Debug\net5.0\Démineur.dll
+C:\Users\Student\source\repos\Exercice récapitulatif\Démineur\obj\Debug\net5.0\ref\Démineur.dll
+C:\Users\Student\source\repos\Exercice récapitulatif\Démineur\obj\Debug\net5.0\Démineur.pdb
+C:\Users\Student\source\repos\Exercice récapitulatif\Démineur\obj\Debug\net5.0\Démineur.genruntimeconfig.cache
